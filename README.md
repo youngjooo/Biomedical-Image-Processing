@@ -16,9 +16,9 @@
 > ch2. Image file and File types
 
 
-## 02. 
+## 02
 > ch3. Image Display
 
 
-## 03. 
+## 03
 > ch4. Point Processing
