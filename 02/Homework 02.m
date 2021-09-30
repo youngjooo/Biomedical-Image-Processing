@@ -1,6 +1,4 @@
 %% Fall 2021. BMED318. hw02.
-% 2017380316 박영주
-
 
 %% 01. Types of Digital Image & File I/O.
 clc, clear all, close all;
