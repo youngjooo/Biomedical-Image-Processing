@@ -10,7 +10,7 @@
 
 ## 01
 > ch1. Introduce
-> 
+
 > ch2. Image file and File types
 
 
