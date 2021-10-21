@@ -10,6 +10,7 @@
 
 ### 01
 > ch1. Introduce
+> 
 > ch2. Image file and File types
 
 
@@ -27,6 +28,7 @@
 
 ### 05
 > ch5-2. DoG
+> 
 > ch6. Image Geometry
 
 ### 06
