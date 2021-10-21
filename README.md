@@ -8,28 +8,28 @@
 
 ---
 
-### 01
+### Week 01
 > ch1. Introduce
 > 
 > ch2. Image file and File types
 
 
-### 02
+### Week 02
 > ch3. Image Display
 
 
-### 03
+### Week 03
 > ch4. Point Processing
 
 
-### 04
+### Week 04
 > ch5-1. Spatial Filter
 
 
-### 05
+### Week 05
 > ch5-2. DoG
 > 
 > ch6. Image Geometry
 
-### 06
+### Week 06
 > ch7. Fourier Transform
