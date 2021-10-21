@@ -33,3 +33,6 @@
 
 ### Week 06
 > ch7. Fourier Transform
+
+### Week 07
+> Mid-term exam -> Term-project 01
