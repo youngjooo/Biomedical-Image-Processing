@@ -8,31 +8,31 @@
 
 ---
 
-### Week 01
+### Week 01 : Class introduction
 > ch1. Introduce
 > 
 > ch2. Image file and File types
 
 
-### Week 02
+### Week 02 : Matlab summary
 > ch3. Image Display
 
 
-### Week 03
+### Week 03 : Point processing
 > ch4. Point Processing
 
 
-### Week 04
+### Week 04 : Neighborhood processing : Spatial filter
 > ch5-1. Spatial Filter
 
 
-### Week 05
+### Week 05 : Image geometry
 > ch5-2. DoG
 > 
 > ch6. Image Geometry
 
-### Week 06
+### Week 06 : Imge resotration
 > ch7. Fourier Transform
 
-### Week 07
-> Mid-term exam -> Term-project 01
+### Week 07 : Mid-term exam
+> Term-project 01
